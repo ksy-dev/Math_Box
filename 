@@ -1,0 +1,55 @@
+[33mcommit 1209703ed24fd247fdb9b969d5bd4e81cad4ed54[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: SY <whiteman7777@naver.com>
+Date:   Sat Aug 20 11:24:32 2022 +0900
+
+    Add one function
+    
+    calculator.py supports 3 function now
+
+[33mcommit c89a6a83459cf87a599472afba2a9eed8c2ff010[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: ksy-dev <111617670+ksy-dev@users.noreply.github.com>
+Date:   Sat Aug 20 09:40:36 2022 +0900
+
+    Git command history add
+
+[33mcommit b99b5f884e24e7939712505ae0feb6d2ebf2a296[m
+Author: ksy-dev <111617670+ksy-dev@users.noreply.github.com>
+Date:   Sat Aug 20 09:33:57 2022 +0900
+
+    Make README.md look nice
+
+[33mcommit e9531acc2e14f02598ae38eb4e8dd5ebc855c0db[m
+Author: ksy-dev <111617670+ksy-dev@users.noreply.github.com>
+Date:   Sat Aug 20 09:03:01 2022 +0900
+
+    Add the info of calculator.py in README.md
+
+[33mcommit a8343d5ebfeecf84f30e6c285b8c889f8ab1c226[m
+Author: SY <whiteman7777@naver.com>
+Date:   Sat Aug 20 08:58:33 2022 +0900
+
+    Create README.md
+
+[33mcommit bae701118b8cd4504ddfb4f6132fe5a13330dccb[m
+Author: SY <whiteman7777@naver.com>
+Date:   Sat Aug 20 08:53:35 2022 +0900
+
+    reset
+
+[33mcommit cd23e13d699665bf3610b4d2e3d0402e7f9d1b8a[m
+Author: SY <whiteman7777@naver.com>
+Date:   Sat Aug 20 08:21:40 2022 +0900
+
+    Add Enter
+
+[33mcommit b2afcb823c4df43d08ac3cf58f28b0792b17c94c[m
+Author: SY <whiteman7777@naver.com>
+Date:   Sat Aug 20 08:16:37 2022 +0900
+
+    Add title comment and Creat meeting-log
+
+[33mcommit 8bc7b9310c8b0f578d69b8ced27d17b5cdd757cf[m
+Author: SY <whiteman7777@naver.com>
+Date:   Tue Aug 16 17:31:58 2022 +0900
+
+    Create calculator.py and Lincense
